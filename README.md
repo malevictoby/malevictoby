@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @malevictoby
-- 👀 I’m interested in Linux, cyber security, discord bots, 3d printing (and in your mom).
-- 🌱 I’m currently learning ethical hacking, how to code discord bots.
-- 💞️ I’m looking to collaborate on anything I understand and can do, which is basically just 3d printing and Linux stuff.
+- 👀 I’m interested in Linux, cybersecurity and coding.
+- 🌱 I’m currently learning Java and Python.
+- 💞️ I’m looking to collaborate on anything I understand and can do as a Python and Java Beginner. I'm always willing to learn new stuff.
 - 📫 How to reach me 
     - Discord: Toby#4470
     - E-mail: malevictoby@seznam.cz  
